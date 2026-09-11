@@ -1,4 +1,4 @@
 # Makale Notları
 
-Bu makaleden öğrendiklerimi buraya yazacağım...
-As
+Bu makaleden öğrendiklerimi buraya yazacağım...üuuuuuuuu.                       
+
