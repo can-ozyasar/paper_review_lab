@@ -7,3 +7,6 @@ Bu makaleden öğrendiklerimi buraya yazacağım...
 
 > Son dönem dil modelleri uzun bağlamları girdi olarak alma yeteneğine sahip olsa da, nispeten çok az şey bilinmektedir
 
+
+> Yeni yapay zeka modelleri çok uzun metinleri okuyabiliyor ama bu uzun metinleri aslında ne kadar iyi anladıklarını ve kullandıklarını tam olarak bilmiyoruz. Bilim insanları bu konuyu anlamak için yapay zekaya iki test yaptı: Çoklu belgeden soru cevaplama ve anahtar-değer bulma. Sonuçta şunu gördüler: Aranan bilginin metnin neresinde (başında, ortasında veya sonunda) olduğu değiştiğinde, yapay zekanın başarısı büyük ölçüde düşüyor. Yani şimdiki yapay zeka modelleri, uzun metinleri hala tam olarak güvenilir ve istikrarlı bir şekilde kullanamıyor.
+
